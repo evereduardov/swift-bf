@@ -2,8 +2,10 @@
 
 
 
+
 ABI
 Another Brainfuck Interpreter
+
 
 
 
@@ -22,17 +24,13 @@ Another Brainfuck Interpreter
 
 
 
-# REPL Infinite loops
 
-When your code is in an infinite loop using the BF REPL, just kill it.
-After that, perhpas your terminal color configurarion has changed.
-It does not matter, restart the BF - REPL and everything will be ok again.
+Thanks to Michał Tynior https://github.com/mtynior/ColorizeSwift for ColorizeSwift
 
 
 
 
-
-
+Happy BF coding!
 
 
 
