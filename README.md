@@ -34,7 +34,7 @@ Compiled with Apple Swift version 4.0.3
 2. Download all the swift files.
 3. Compile: `swiftc -O *.swift -o bf`.
 4. Lauch the REPL: `./bf`
-5. Usage: See some picture below.
+5. Usage: See some pictures below.
 6. Enjoy!
 
 
