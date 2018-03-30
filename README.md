@@ -1,11 +1,10 @@
-# Brainfuck
+# Swift-BF
 
 
 
 
 
-ABI
-Another Brainfuck Interpreter
+## ABI - Another Brainfuck Interpreter
 
 
 
@@ -22,7 +21,7 @@ This project was made to understand some basic concepts on virtual machines and 
 * BF - Virtual Machine
 * Simple CLI
 * Beautiful Interface
-* MacOs / Linux Compatible through any swift compiler
+* MacOs / Linux Compatible
 
 
 
