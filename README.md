@@ -3,9 +3,13 @@
 
 
 
+
 ABI
 Another Brainfuck Interpreter
 
+
+
+This project was made to understand some basic concepts on virtual machines and programming languages.
 
 
 
@@ -15,12 +19,26 @@ Another Brainfuck Interpreter
 * Compiler
 * REPL
 * Debugger - Step by step computation.
-* Virtual Machine
+* BF - Virtual Machine
 * Simple CLI
-* Beautiful Colors
-* MacOs / Linux Compatible
-* Entirely written in swift
-* It is a swift package
+* Beautiful Interface
+* MacOs / Linux Compatible through any swift compiler
+
+
+
+# Configure and Compile
+
+Compiled with Apple Swift version 4.0.3
+
+1. Create a new folder for the source code.
+2. Download all the swift files.
+3. Compile! (swiftc -O) for optimizations.
+4. Enjoy!
+
+
+
+# Images
+
 
 
 
