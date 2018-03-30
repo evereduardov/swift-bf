@@ -56,16 +56,6 @@ About
 ![bf-about](https://github.com/evereduardov/swift-bf/blob/master/bf_3.png)
 
 
-Compile
-
-![bf-compile](https://github.com/evereduardov/swift-bf/blob/master/bf_4.png)
-
-
-VF Interpreter version
-
-![bf-version](https://github.com/evereduardov/swift-bf/blob/master/bf_5.png)
-
-
 BF Interpreter usage
 
 ![bf-usage](https://github.com/evereduardov/swift-bf/blob/master/bf_6.png)
