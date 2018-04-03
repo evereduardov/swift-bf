@@ -63,7 +63,7 @@ BF Interpreter usage
 
 BF Interpreter file extensions
 
-![bf-filext](https://github.com/evereduardov/swift-bf/blob/master/bf_7.png)
+![bf-filext](https://github.com/evereduardov/swift-bf/blob/master/bf_8.png)
 
 
 
